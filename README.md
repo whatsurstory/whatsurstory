@@ -5,7 +5,7 @@
 - A person who intersting about any funny things such like memes, lame jokes, people etc
 - Also a noob in Android Development, just realesed my first app [`BornMeme.`](https://play.google.com/store/apps/details?id=com.beva.bornmeme)
 - Can Reaching me via these social media 
-<br/><br/><a href="https://www.linkedin.com/in/beva-lin/"><img align="left" alt="Beva's Linkdein" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a><a href="https://www.facebook.com/bigfunhahaha"><img align="left" alt="Beva's Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" /></a>
+<br/><br/><a href="https://www.linkedin.com/in/beva-lin/"><img align="left" alt="Beva's Linkdein" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a><a href="https://www.facebook.com/bigfunhahaha"><img align="left" alt="Beva's Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" /></a><br/>
 
 ### Languages and Tools<br/>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"></code>
