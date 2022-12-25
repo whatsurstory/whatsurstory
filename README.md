@@ -16,4 +16,4 @@
 
 
 
-<img src="https://media1.giphy.com/media/KzPx3PsbqG9QvKFMdG/giphy.gif?cid=ecf05e473uburfq0nb83d45do50e50b6i1nsxdxvifmhh2kk&rid=giphy.gif&ct=s" width="500" />
+<img src="https://media1.giphy.com/media/KzPx3PsbqG9QvKFMdG/giphy.gif?cid=ecf05e473uburfq0nb83d45do50e50b6i1nsxdxvifmhh2kk&rid=giphy.gif&ct=s" width="600" />
