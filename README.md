@@ -2,8 +2,8 @@
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30" /> Hey I'm Beva <br/>
 ### About Me<br/>
-- A person who intersting about any funny things such like memes, lame jokes, people etc
-- Also a noob in Android Development, just realesed my first app [`BornMeme.`](https://play.google.com/store/apps/details?id=com.beva.bornmeme)
+- A person who is interesting in any funny things such as memes, lame jokes, people, etc
+- Also, a noob in Android Development just released my first app [`BornMeme.`](https://play.google.com/store/apps/details?id=com.beva.bornmeme)
 - Can Reaching me via these social media 
 <br/><br/><a href="https://www.linkedin.com/in/beva-lin/"><img align="left" alt="Beva's Linkdein" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a><a href="https://www.facebook.com/bigfunhahaha"><img align="left" alt="Beva's Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" /></a><br/>
 
